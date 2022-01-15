@@ -1,0 +1,13 @@
+
+
+.about-page {
+    min-height: 600px;
+    background-color: #d3a466
+
+}
+
+.about-page h1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0;
+}
